@@ -1,0 +1,13 @@
+git add act.sh
+git add backup/
+git add predicas.topx
+git add z-cj-bosquejos_es_2020.topx
+git add z-cj-bosquejos_es_2021.refi
+git add z-cj-bosquejos_es_2021.topx
+git add z-cj-bosquejos_predicas.refi
+git add z-cj-bosquejos_predicas.topx
+git add z-cj-comentarios_v3.rtf
+git add z-cj-comentarios_v4.rtf
+git add z-cj-concordancia.refi
+git add z-cj-concordancia.topx
+git add z-cj-versiculos.memx
