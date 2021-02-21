@@ -1,4 +1,3 @@
-git add act.sh
-git add z-cj-bosquejos_es_2021.topx
-git add z-cj-bosquejos_predicas.topx
-git add z-cj-versiculos.memx
+git add	act.sh
+git add	z-cj-bosquejos_es_2021.topx
+git add	z-cj-bosquejos_predicas.topx
